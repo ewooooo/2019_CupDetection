@@ -1,4 +1,4 @@
-# 2019_CupDetection
+# 2019_Elephant_ON
 
 
 ## Overview
